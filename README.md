@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi 👋 Marius here.
 
+Rust/Java/Angular developer.
+<!--Interested in the distributed system, blockchain and database systems.
 <!--
 **sim-hash/sim-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Check out what I'm currently working on:
+- https://github.com/sim-hash/algomania-gpu
+
+Work in progress -> Check out my recent pull requests
