@@ -1,7 +1,6 @@
 ## Hi 👋 Marius here.
 
-Rust/Java/Angular developer.
-<!--Interested in the distributed system, blockchain and database systems.
+Rust/Java/Angular developer. Interested in the distributed system, blockchain and database systems.
 <!--
 **sim-hash/sim-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
