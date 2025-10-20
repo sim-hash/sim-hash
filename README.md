@@ -1,6 +1,9 @@
 ## Hi 👋 Marius here.
 
 Rust/Java/Angular developer. Interested in the distributed system, blockchain and database systems.
+
+Open to Remote Job Opportunities
+
 <!--
 **sim-hash/sim-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
