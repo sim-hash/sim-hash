@@ -24,6 +24,3 @@ Check out what I'm currently working on:
 
 Work in progress -> Check out my recent pull requests
 - [feat: support akamai h2 passive fingerprint and expose in echo + fp services](https://github.com/plabayo/rama/pull/719) on [plabayo/rama](https://github.com/plabayo/rama) (this week)
-
-**Social Media**:
-- [Linkedin](https://www.linkedin.com/in/msiminic/)
