@@ -23,4 +23,5 @@ Check out what I'm currently working on:
 - [gpu-only vanity address generator for Algorand] https://github.com/sim-hash/algomania-gpu
 
 Work in progress -> Check out my recent pull requests
-- [feat: support akamai h2 passive fingerprint and expose in echo + fp services](https://github.com/plabayo/rama/pull/719) on [plabayo/rama](https://github.com/plabayo/rama) (this week)
+- [feat: add X-Clacks-Overhead header support](https://github.com/plabayo/rama/pull/734) on [plabayo/rama](https://github.com/plabayo/rama) (this week)
+- [feat: support akamai h2 passive fingerprint and expose in echo + fp services](https://github.com/plabayo/rama/pull/719) on [plabayo/rama](https://github.com/plabayo/rama) (last month)
