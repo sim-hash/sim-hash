@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 
 #### 👷 Check out what I'm currently working on
-- [gpu-only vanity address generator for Algorand](https://github.com/sim-hash/algomania-gpu)
+- [gpu-only vanity address generator for Algorand](https://github.com/sim-hash/algomania-gpu) - GPU-accelerated vanity address generator for Algorand (this week).
 
 
