@@ -1,7 +1,7 @@
 ## Hi 👋 Marius here.
 
 
-Rust/Java/Angular developer. 🌱 Interested in distributed system, blockchain and database systems.
+Rust/Java developer. 🌱 Interested in distributed system, blockchain and database systems.
 
 
 Open to Remote Job Opportunities
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 #### 🔨 Check out my recent pull requests
+- [chore: Move trait constraints on stream elements types from impl to function](https://github.com/hydro-project/hydro/pull/2319) on [hydro-project/hydro](https://github.com/hydro-project/hydro) (this week)
 - [feat: add #diagnostic::do_not_recommend to impl AsExpression for T: Expression](https://github.com/diesel-rs/diesel/pull/4884) on [diesel-rs/diesel](https://github.com/diesel-rs/diesel) (this week) 
 - [feat: add X-Clacks-Overhead header support](https://github.com/plabayo/rama/pull/734) on [plabayo/rama](https://github.com/plabayo/rama) (this week)
 - [feat: support akamai h2 passive fingerprint and expose in echo + fp services](https://github.com/plabayo/rama/pull/719) on [plabayo/rama](https://github.com/plabayo/rama) (last month)
