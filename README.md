@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 #### 🔨 Check out my recent pull requests
+- [chore: diesel_migrations fails when search_path is set in migration script](https://github.com/diesel-rs/diesel/pull/4981) on [diesel-rs/diesel](https://github.com/diesel-rs/diesel) (this week) 
 - [feat: fk_related_tables not working correctly with two foreign keys to same table](https://github.com/diesel-rs/diesel/pull/4910) on [diesel-rs/diesel](https://github.com/diesel-rs/diesel) (last month) 
 - [chore: Move trait constraints on stream elements types from impl to function](https://github.com/hydro-project/hydro/pull/2319) on [hydro-project/hydro](https://github.com/hydro-project/hydro) (last month)
 - [feat: add #diagnostic::do_not_recommend to impl AsExpression for T: Expression](https://github.com/diesel-rs/diesel/pull/4884) on [diesel-rs/diesel](https://github.com/diesel-rs/diesel) (last month) 
